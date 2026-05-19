@@ -14,6 +14,7 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 ![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-232F3E?style=for-the-badge&logo=amazon-eks&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+
 **AI/ML:**  
 ![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-232F3E?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -23,12 +24,14 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 ![LangChain](https://img.shields.io/badge/LangChain-232F3E?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-232F3E?style=for-the-badge&logo=openai&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-232F3E?style=for-the-badge&logo=mlflow&logoColor=white)
+
 **Data:**  
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-232F3E?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+
 **Security:**  
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS KMS](https://img.shields.io/badge/AWS%20KMS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
