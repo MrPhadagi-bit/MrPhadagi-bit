@@ -1,6 +1,6 @@
 #  I'm Phadagi Mannda Raven  
 
-&gt; **Cloud Engineer [Solution Architect]| AI/ML Engineer**
+&gt; **Cloud Engineer Solution Architect | AI/ML Engineer**
 
 I architect scalable, secure, and intelligent cloud systems. My work bridges three domains: designing enterprise-grade AWS infrastructure, building robust DevOps pipelines, and deploying production AI/ML solutions — from data pipelines to LLM-powered applications.
 
