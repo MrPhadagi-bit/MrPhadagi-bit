@@ -28,7 +28,6 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 **Data:**  
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-232F3E?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 
