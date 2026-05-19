@@ -1,4 +1,4 @@
-# I'm Phadagi Mannda Raven based in Cape Town 
+#  I'm Phadagi Mannda Raven  
 
 &gt; **Solution Architect | Cloud Engineer | AI/ML Engineer**
 
