@@ -1,39 +1,27 @@
 #  I'm Raven Mannda Phadagi   
 
-&gt; **Cloud Engineer : Solution Architect | AI/ML Engineer**
+<h3 align="center">AI Cloud Engineer | Backend AI Engineer & Solution Architect | AWS re/Start Graduate</h3>
 
 I architect scalable, secure, and intelligent cloud systems. My work bridges three domains: designing enterprise-grade AWS infrastructure, building robust DevOps pipelines, and deploying production AI/ML solutions — from data pipelines to LLM-powered applications.
 
-## Tool Stack
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrphadagi-bit&label=Profile%20views&color=0e75b6&style=flat" alt="mrphadagi-bit" /> </p>
 
-**Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-232F3E?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrphadagi-bit" alt="mrphadagi-bit" /></a> </p>
 
-**AI/ML:**  
-![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-232F3E?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-232F3E?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-232F3E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-232F3E?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-232F3E?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-232F3E?style=for-the-badge&logo=openai&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-232F3E?style=for-the-badge&logo=mlflow&logoColor=white)
+-  How to reach me **ecommercesraven@gmail.com**
 
-**Data:**  
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-232F3E?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/raven-mannda-phadagi-b0782639a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raven-mannda-phadagi-b0782639a" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/phadagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/phadagi" height="30" width="40" /></a>
+</p>
 
-**Security:**  
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS%20KMS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS%20WAF-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrphadagi-bit&show_icons=true&locale=en&layout=compact" alt="mrphadagi-bit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrphadagi-bit&show_icons=true&locale=en" alt="mrphadagi-bit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrphadagi-bit&" alt="mrphadagi-bit" /></p>
 
