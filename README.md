@@ -6,7 +6,7 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 
 ---
 <div align="center">
-<img hight="700" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="900" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 </br>
