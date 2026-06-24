@@ -17,3 +17,6 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,&perline=3)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=git,githubactions,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,linux,py,java,bash)](https://skillicons.dev)
