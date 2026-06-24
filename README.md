@@ -20,3 +20,6 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 [![My Skills](https://skillicons.dev/icons?i=git,githubactions,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,linux,py,java,bash)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,fastapi,matlab,pytorch,sklearn,supabase,tensorflow,replit,obsidian)](https://skillicons.dev)
+
