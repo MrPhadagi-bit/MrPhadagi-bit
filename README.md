@@ -15,5 +15,5 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 
 ---
 
-[![My Skills](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AWS-Light.svg)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,,flutter&perline=3)](https://skillicons.dev)
 
