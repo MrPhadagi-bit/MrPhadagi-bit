@@ -23,4 +23,4 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,fastapi,matlab,pytorch,sklearn,supabase,tensorflow,replit,obsidian)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kali,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kali,kubernetes,terraform)](https://skillicons.dev)
