@@ -26,9 +26,12 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 ##  Technical Stack
 
 ### Cloud & Infrastructure
- *AWS Services
+- **AWS Services**: EC2, RDS, S3, Lambda, CloudFormation, VPC, IAM, ECS, EKS, SageMaker
+ 
 [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
-Infrastructure-as-Code
+
+- **Infrastructure-as-Code**: Terraform, CloudFormation, CDK
+
 [![My Skills](https://skillicons.dev/icons?i=terraform,cloudflare)](https://skillicons.dev)
 **Container Orchestration
 [![My Skills](https://skillicons.dev/icons?i=git,githubactions,nodejs)](https://skillicons.dev)
