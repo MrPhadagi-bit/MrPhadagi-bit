@@ -14,15 +14,6 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 -  DevOps & Automation – Building robust CI/CD pipelines, infrastructure-as-code, and deployment automation
 -  AI/ML Solutions – Deploying production machine learning systems, from data pipelines to LLM-powered applications
 
-<div align="center">
-<img hight="900" width="600" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
-
-</br>
-</br>
-</br>
-
-
 ##  Technical Stack
 
 ### Cloud & Infrastructure
