@@ -4,7 +4,16 @@
 
 I architect scalable, secure, and intelligent cloud systems. My work bridges three domains: designing enterprise-grade AWS infrastructure, building robust DevOps pipelines, and deploying production AI/ML solutions — from data pipelines to LLM-powered applications.
 
----
+------
+
+##  Professional Overview
+
+I architect scalable, secure, and intelligent cloud systems. My work bridges three critical domains:
+
+- ** Cloud Infrastructure** – Designing enterprise-grade AWS architectures for high availability, security, and cost optimization
+- ** DevOps & Automation** – Building robust CI/CD pipelines, infrastructure-as-code, and deployment automation
+- ** AI/ML Solutions** – Deploying production machine learning systems, from data pipelines to LLM-powered applications
+
 <div align="center">
 <img hight="900" width="600" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
@@ -15,6 +24,9 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 
 ---
 
+##  Technical Stack
+
+### Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare&perline=3)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,githubactions,nodejs)](https://skillicons.dev)
