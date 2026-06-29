@@ -25,3 +25,4 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kali,kubernetes,terraform)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
