@@ -33,7 +33,14 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 - **Infrastructure-as-Code**: Terraform, CloudFormation, CDK
 
 [![My Skills](https://skillicons.dev/icons?i=terraform,cloudflare)](https://skillicons.dev)
-**Container Orchestration
+
+- **Container Orchestration**: Docker, Kubernetes
+  
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
+### Backend Development
+
+
 [![My Skills](https://skillicons.dev/icons?i=git,githubactions,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,linux,py,java,bash)](https://skillicons.dev)
