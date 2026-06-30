@@ -45,8 +45,10 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 - **ML Frameworks**: TensorFlow, PyTorch, scikit-learn
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
- - **Data Processing**: pandas, NumPy, PySpark   
+ - **Data Processing**: pandas, NumPy, PySpark
+    
 [![My Skills](https://skillicons.dev/icons?i=pandas,NumPy,PySpark)](https://skillicons.dev)
+
 - **LLMs**: RAG systems, prompt engineering, fine-tuning
   [![My Skills](https://skillicons.dev/icons?i=RAG-systems,prompt-engineering,fine-tuning)](https://skillicons.dev)
 
