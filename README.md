@@ -30,6 +30,10 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
 ### Backend Development
+- **Languages**: Python, Go, Java, Node.js
+
+[![My Skills](https://skillicons.dev/icons?i=html,linux,py,java,bash)](https://skillicons.dev)
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=git,githubactions,nodejs)](https://skillicons.dev)
