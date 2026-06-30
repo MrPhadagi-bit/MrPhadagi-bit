@@ -39,20 +39,15 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 [![My Skills](https://skillicons.dev/icons?i=dynamodb,redhat,MongoDB,PostgreSQL)](https://skillicons.dev)
 
 - **Frameworks**: FastAPI
-
 [![My Skills](https://skillicons.dev/icons?i=FastAPI)](https://skillicons.dev)
 
 ### AI/ML & Data
 - **ML Frameworks**: TensorFlow, PyTorch, scikit-learn
-
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
- - **Data Processing**: pandas, NumPy, PySpark
-   
+ - **Data Processing**: pandas, NumPy, PySpark   
 [![My Skills](https://skillicons.dev/icons?i=pandas,NumPy,PySpark)](https://skillicons.dev)
-
 - **LLMs**: RAG systems, prompt engineering, fine-tuning
-
   [![My Skills](https://skillicons.dev/icons?i=RAG-systems,prompt-engineering,fine-tuning)](https://skillicons.dev)
 
 ### DevOps & Tools
@@ -65,16 +60,11 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 [![My Skills](https://skillicons.dev/icons?i=Git,GitHub,GitLab)](https://skillicons.dev)
 
 - **IaC Tools**: Ansible, Terraform
-
 [![My Skills](https://skillicons.dev/icons?i=Ansible,Terraform)](https://skillicons.dev)
 
 
 
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,fastapi,matlab,pytorch,sklearn,supabase,tensorflow,replit,obsidian)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,githubactions,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,kali,kubernetes,terraform)](https://skillicons.dev)
 
 
