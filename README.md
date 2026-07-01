@@ -18,51 +18,26 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 
 ### Cloud & Infrastructure
 - **AWS Services**: EC2, RDS, S3, Lambda, CloudFormation, VPC, IAM, ECS, EKS, SageMaker
- 
-[![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
-
 - **Infrastructure-as-Code**: Terraform, CloudFormation, CDK
-
-[![My Skills](https://skillicons.dev/icons?i=terraform,cloudflare)](https://skillicons.dev)
-
-- **Container Orchestration**: Docker, Kubernetes
-  
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+- **Container Orchestration**: Docker, Kubernetes (EKS)
 
 ### Backend Development
-- **Languages**: Python, Java, Node.js,linux
-
-[![My Skills](https://skillicons.dev/icons?i=,linux,py,java,nodejs)](https://skillicons.dev)
-
-- **Databases**: PostgreSQL, DynamoDB, redhat, MongoDB
-
-[![My Skills](https://skillicons.dev/icons?i=dynamodb,redhat,MongoDB,PostgreSQL)](https://skillicons.dev)
-
-- **Frameworks**: FastAPI
-[![My Skills](https://skillicons.dev/icons?i=FastAPI)](https://skillicons.dev)
+- **Languages**: Python, Go, Java, Node.js
+- **Frameworks**: FastAPI, Django, Spring Boot, Express.js
+- **Databases**: PostgreSQL, DynamoDB, Redis, MongoDB
+- **Message Queues**: SQS, SNS, RabbitMQ, Kafka
 
 ### AI/ML & Data
 - **ML Frameworks**: TensorFlow, PyTorch, scikit-learn
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
-
- - **Data Processing**: pandas, NumPy, PySpark
-    
-[![My Skills](https://skillicons.dev/icons?i=pandas,NumPy,PySpark)](https://skillicons.dev)
-
+- **Data Processing**: pandas, NumPy, PySpark
+- **ML Ops**: SageMaker, MLflow, feature stores
 - **LLMs**: RAG systems, prompt engineering, fine-tuning
-  [![My Skills](https://skillicons.dev/icons?i=RAG-systems,prompt-engineering,fine-tuning)](https://skillicons.dev)
 
 ### DevOps & Tools
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI
-
-[![My Skills](https://skillicons.dev/icons?i=GitHubActions,Jenkins,GitLabCI)](https://skillicons.dev)
-
+- **Monitoring**: CloudWatch, Prometheus, Grafana, DataDog
 - **Version Control**: Git, GitHub, GitLab
-
-[![My Skills](https://skillicons.dev/icons?i=Git,GitHub,GitLab)](https://skillicons.dev)
-
 - **IaC Tools**: Ansible, Terraform
-[![My Skills](https://skillicons.dev/icons?i=Ansible,Terraform)](https://skillicons.dev)
 
 
 
