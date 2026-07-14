@@ -21,12 +21,6 @@ I architect scalable, secure, and intelligent cloud systems. My work bridges thr
 - **Infrastructure-as-Code**: Terraform, CloudFormation, CDK
 - **Container Orchestration**: Docker, Kubernetes (EKS)
 
-### Backend Development
-- **Languages**: Python, Go, Java, Node.js
-- **Frameworks**: FastAPI, Django, Spring Boot, Express.js
-- **Databases**: PostgreSQL, DynamoDB, Redis, MongoDB
-- **Message Queues**: SQS, SNS, RabbitMQ, Kafka
-
 ### AI/ML & Data
 - **ML Frameworks**: TensorFlow, PyTorch, scikit-learn
 - **Data Processing**: pandas, NumPy, PySpark
