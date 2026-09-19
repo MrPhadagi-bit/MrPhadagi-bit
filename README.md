@@ -1,7 +1,7 @@
 
 #  I'm Raven Mannda Phadagi   
 
-<h3 align="center">AI Cloud Engineer | Backend AI Engineer & Solution Architect | AWS re/Start Graduate</h3>
+Cloud Engineer | DevOps | AWS re/Start Graduate</h3>
 
 I architect scalable, secure, and intelligent cloud systems. My work bridges three domains: designing enterprise-grade AWS infrastructure, building robust DevOps pipelines, and deploying production AI/ML solutions — from data pipelines to LLM-powered applications.
 
