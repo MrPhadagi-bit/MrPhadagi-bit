@@ -2,7 +2,10 @@
 
 Cloud Engineer | DevOps | AWS re/Start Graduate</h3>
 
-I architect scalable, secure, and intelligent cloud systems. My work bridges three domains: designing enterprise-grade AWS infrastructure, building robust DevOps pipelines, and deploying production AI/ML solutions — from data pipelines to LLM-powered applications.
+AWS Certified Cloud Engineer and DevOps practitioner with hands-on experience deploying secure, scalable infrastructure using EC2, IAM, S3, VPC,
+Lambda, Terraform, Docker, and Kubernetes, backed by a demonstrated AI/ML foundation.
+Graduate of the AWS re/Start Programme with triple cloud certifications across AWS and Azure; actively building production-grade cloud and
+DevOps systems documented across GitHub
 
 ![image](https://github.com/MrPhadagi-bit/ppppp1/blob/main/Black%20and%20White%20Simple%20Name%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 
