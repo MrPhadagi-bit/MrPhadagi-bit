@@ -46,16 +46,15 @@ TensorFlow · PyTorch · scikit-learn · pandas · NumPy · PySpark · SageMaker
 **DevOps & Tools**
 GitHub Actions · Jenkins · GitLab CI · CloudWatch · Prometheus · Grafana · Datadog · Ansible · Git
 
----
 
 ##  Certifications
 
 <div align="center">
 
-[![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-Graduate-FF9900?logo=amazonaws&logoColor=white)]((https://www.credly.com/badges/08f8d31e-b094-4ff3-a3a8-21d51d60b863/linked_in_profile))
-[[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified-232F3E?logo=amazonaws&logoColor=white)]](https://www.credly.com/badges/ae8f1165-c33b-4ca0-8c7b-268b78fe5d9a/linked_in_profile)
-[![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Certified-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PhadagiRavenMannda-3661/66F94FE95BF4337E?sharingId)
-[![Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://img.shields.io/badge/Microsoft-Azure_Certified-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PhadagiRavenMannda-3661/FD7E251729083EC2?sharingId=793B68211C0964AF)
+[![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-Graduate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/08f8d31e-b094-4ff3-a3a8-21d51d60b863/linked_in_profile)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ae8f1165-c33b-4ca0-8c7b-268b78fe5d9a/linked_in_profile)
+[![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PhadagiRavenMannda-3661/66F94FE95BF4337E?sharingId)
+[![Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://img.shields.io/badge/Azure-AI_Apps_&_Agents_Developer-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PhadagiRavenMannda-3661/FD7E251729083EC2?sharingId=793B68211C0964AF)
 
 </div>
 
