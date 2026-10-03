@@ -7,7 +7,7 @@
 **Cloud Engineer | DevOps | AWS re/Start Graduate**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MrPhadagi--bit-181717?logo=github&logoColor=white)](https://github.com/MrPhadagi-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](linkedin.com/in/raven-mannda-phadagi)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 ![Location](https://img.shields.io/badge/Cape_Town-South_Africa-0077B5?logo=googlemaps&logoColor=white)
 
@@ -53,9 +53,11 @@ GitHub Actions · Jenkins · GitLab CI · CloudWatch · Prometheus · Grafana ·
 <div align="center">
 
 <!-- Replace # with your Credly/Acclaim verification links -->
-[![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-Graduate-FF9900?logo=amazonaws&logoColor=white)](#)
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?logo=amazonaws&logoColor=white)](#)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure_Certified-0078D4?logo=microsoftazure&logoColor=white)](#)
+[![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-Graduate-FF9900?logo=amazonaws&logoColor=white)]((https://www.credly.com/badges/08f8d31e-b094-4ff3-a3a8-21d51d60b863/linked_in_profile))
+[[![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?logo=amazonaws&logoColor=white)]](https://www.credly.com/badges/ae8f1165-c33b-4ca0-8c7b-268b78fe5d9a/linked_in_profile)
+[[![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?logo=amazonaws&logoColor=white)]](https://www.credly.com/badges/ae8f1165-c33b-4ca0-8c7b-268b78fe5d9a/linked_in_profile)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure_Certified-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PhadagiRavenMannda-3661/66F94FE95BF4337E?sharingId)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure_Certified-0078D4?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PhadagiRavenMannda-3661/FD7E251729083EC2?sharingId=793B68211C0964AF)
 
 </div>
 
