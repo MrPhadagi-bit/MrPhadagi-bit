@@ -87,7 +87,7 @@ GitHub Actions · Jenkins · GitLab CI · CloudWatch · Prometheus · Grafana ·
 **Open to Cloud Engineer & DevOps opportunities** — let's connect!
 
 [![GitHub](https://img.shields.io/badge/Follow-MrPhadagi--bit-181717?logo=github&logoColor=white)](https://github.com/MrPhadagi-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)]([linkedin.com/in/raven-mannda-phadagi](https://linkedin.com/in/raven-mannda-phadagi))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/raven-mannda-phadagi)
 
 </div>
 
