@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MrPhadagi--bit-181717?logo=github&logoColor=white)](https://github.com/MrPhadagi-bit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/raven-mannda-phadagi)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?logo=gmail&logoColor=white)](ecommercesraven@gmail.com)
 ![Location](https://img.shields.io/badge/Cape_Town-South_Africa-0077B5?logo=googlemaps&logoColor=white)
 
 AWS Certified Cloud Engineer and DevOps practitioner, building secure, scalable infrastructure with a strong AI/ML foundation. Graduate of the AWS re/Start Programme with cloud certifications across AWS and Azure.
@@ -87,7 +87,7 @@ GitHub Actions · Jenkins · GitLab CI · CloudWatch · Prometheus · Grafana ·
 **Open to Cloud Engineer & DevOps opportunities** — let's connect!
 
 [![GitHub](https://img.shields.io/badge/Follow-MrPhadagi--bit-181717?logo=github&logoColor=white)](https://github.com/MrPhadagi-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](linkedin.com/in/raven-mannda-phadagi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)]([linkedin.com/in/raven-mannda-phadagi](https://linkedin.com/in/raven-mannda-phadagi))
 
 </div>
 
