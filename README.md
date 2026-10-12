@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cover Image](https://github.com/MrPhadagi-bit/ppppp1/blob/main/Black%20and%20White%20Simple%20Name%20LinkedIn%20Article%20Cover%20Image%20(1).png?raw=true)
+![Cover Image]([https://github.com/MrPhadagi-bit/ppppp1/blob/main/Black%20and%20White%20Simple%20Name%20LinkedIn%20Article%20Cover%20Image%20(1).png?raw=true](https://github.com/MrPhadagi-bit/ppppp1/blob/main/Black%20and%20White%20Simple%20Name%20LinkedIn%20Article%20Cover%20Image%20(2).png?raw=true))
 
 # Raven Mannda Phadagi
 
