@@ -67,7 +67,7 @@ GitHub Actions · Jenkins · GitLab CI · CloudWatch · Prometheus · Grafana ·
 | **[Cloud-DevOps-Engineer-Roadmap](https://github.com/MrPhadagi-bit/Cloud-DevOps-Engineer-Roadmap)** | Hands-on learning portfolio covering AWS infrastructure, DevOps automation, container orchestration, and applied ML |
 | **[Cloud-Engineer-Roadmap](https://github.com/MrPhadagi-bit/Cloud-Engineer-Roadmap)** | Terraform modules, Kubernetes manifests, CI/CD pipelines, architecture diagrams, and security hardening notes |
 | **[AWS re/Start Portfolio](https://github.com/MrPhadagi-bit/Aws-re-Start-Portfolio)** | Structured lab notes and end-to-end AWS projects from the re/Start programme — EC2, S3, VPC, IAM, RDS, Linux, Python, networking, security |
-| **[AI-ML-](https://github.com/MrPhadagi-bit/AI-ML-)** | 10 practical ML projects: regression, NLP, computer vision, healthcare analytics, time-
+| **[AI-ML-](https://github.com/MrPhadagi-bit/AI-ML-)** | 10 practical ML projects: regression, NLP, computer vision, healthcare analytics, time-series forecasting, and model deployment |
 
 ---
 
@@ -75,8 +75,12 @@ GitHub Actions · Jenkins · GitLab CI · CloudWatch · Prometheus · Grafana ·
 
 <div align="center">
 
-[![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPhadagi-bit&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/MrPhadagi-bit)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPhadagi-bit&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MrPhadagi-bit)
+[![GitHub followers](https://img.shields.io/github/followers/MrPhadagi-bit?style=for-the-badge&logo=github&color=58A6D6&labelColor=1A1B27)](https://github.com/MrPhadagi-bit?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/MrPhadagi-bit?style=for-the-badge&logo=github&color=58A6D6&labelColor=1A1B27)](https://github.com/MrPhadagi-bit?tab=repositories)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMrPhadagi-bit&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=58A6D6&labelColor=1A1B27&logo=github)](https://github.com/MrPhadagi-bit?tab=repositories)
+
+[![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPhadagi-bit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/MrPhadagi-bit)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPhadagi-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8)](https://github.com/MrPhadagi-bit)
 
 </div>
 
