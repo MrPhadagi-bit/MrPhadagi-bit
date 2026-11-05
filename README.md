@@ -79,8 +79,8 @@ GitHub Actions · Jenkins · GitLab CI · CloudWatch · Prometheus · Grafana ·
 [![GitHub stars](https://img.shields.io/github/stars/MrPhadagi-bit?style=for-the-badge&logo=github&color=58A6D6&labelColor=1A1B27)](https://github.com/MrPhadagi-bit?tab=repositories)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMrPhadagi-bit&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=58A6D6&labelColor=1A1B27&logo=github)](https://github.com/MrPhadagi-bit?tab=repositories)
 
-[![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPhadagi-bit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/MrPhadagi-bit)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPhadagi-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8)](https://github.com/MrPhadagi-bit)
+[![Raven's GitHub stats](assets/github-stats.svg)](https://github.com/MrPhadagi-bit)
+[![Top Languages](assets/top-langs.svg)](https://github.com/MrPhadagi-bit)
 
 </div>
 
